@@ -11,7 +11,7 @@ Empowering Ideas with Code – A Dedicated Fullstack Developer from Bangladesh
   <a href="https://www.x.com/robaeit"><img src="assets/TWITTER.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robaeit-hossan&theme=dark&card_width=484)](https://git.io/streak-stats)
+
 ### Love to code
 
 <div style="display:flex">
