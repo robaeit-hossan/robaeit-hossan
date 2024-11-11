@@ -10,9 +10,6 @@
 </div>
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupomsoft&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
-
-
 ### Love to code
 
 <div style="display:flex">
@@ -49,7 +46,7 @@
 <tbody>
 <tr>
 <td>
-<div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
+<div style="cursor:pointer"  href="https://github.com/robaeit-hossan">
 </div>
 </td>
 
