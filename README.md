@@ -2,7 +2,6 @@
 ### MERN STACK developers.
 Empowering Ideas with Code – A Dedicated Fullstack Developer from Bangladesh
 
-<br>
 <div style="display:flex">
   <a href="https://robaeit-hossan-rihan.blogspot.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/robaeit-hossan-rihan"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
