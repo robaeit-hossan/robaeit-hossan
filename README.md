@@ -1,5 +1,6 @@
 # Hi👋 I'm Robaeit Hossan Rihan
 ### MERN STACK developers.
+Empowering Ideas with Code – A Dedicated Fullstack Developer from Bangladesh
 
 <br>
 
@@ -53,27 +54,5 @@
 
 </tr>
 
-
 ### About
 Robayet Hossan Rihan – A prominent figure in Bangladesh's programming community, renowned for expertise in web and mobile application development with over 3 years of hands-on experience. A true innovator, Robayet excels in research & development, teaching, and community leadership, making a lasting impact in the field and inspiring the next generation of developers.
-
-<table>
-<tbody>
-
-<tr>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark)
-
-</td>
-
-<td>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark)
-
-</td>
-</tr>
-
-</tbody>
-</table>
-
