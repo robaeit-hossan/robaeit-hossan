@@ -11,7 +11,7 @@ Empowering Ideas with Code – A Dedicated Fullstack Developer from Bangladesh
   <a href="https://www.x.com/robaeit"><img src="assets/TWITTER.svg" alt="" height="35px" width="auto"></a>
 </div>
 <br>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robaeit-hossan&theme=dark&card_width=484)](https://git.io/streak-stats)
 ### Love to code
 
 <div style="display:flex">
@@ -56,3 +56,24 @@ Empowering Ideas with Code – A Dedicated Fullstack Developer from Bangladesh
 
 ### About
 Robayet Hossan Rihan – A prominent figure in Bangladesh's programming community, renowned for expertise in web and mobile application development with over 3 years of hands-on experience. A true innovator, Robayet excels in research & development, teaching, and community leadership, making a lasting impact in the field and inspiring the next generation of developers.
+
+<table>
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robaeit-hossan&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=robaeit-hossan&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
+
